@@ -1,0 +1,17 @@
+{
+    "java_jdk_files": [
+        "https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip"
+    ],
+    "launcher_files_json": [
+        "https://redlauncher-files.netlify.app/files/data/1.21.8/1.21.8.json"
+    ],
+    "name": "RedLauncher",
+    "version": "2.13.211",
+    "description": "RedLauncher is a startin FlexServer for Minecraft.",
+    "company": "RED BLACK GLASSES STUDIO",
+    "website": "https://redblackglasses.com",
+    "minecraft_version": "1.21.8",
+    "fabric_loader": "0.18.3",
+    "plugin": "mods\\files",
+    "main_class": "net.fabricmc.loader.impl.launch.knot.KnotClient"
+}
